@@ -1,3 +1,3 @@
 # SnakeGame
 
-using pure #html,#css & #javascript
+using pure **html**,**css** & **javascript**
